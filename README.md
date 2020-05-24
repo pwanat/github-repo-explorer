@@ -1,15 +1,17 @@
+## About
+
 Create React App which integrates with github.com API and allows user to search for up to 5 users with an username similar to the value entered in text input and then on click, display repositories for selected GitHub user.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) + TypeScript.
-
-## About
-
-The project allows user to search for up to 5 users with a username similar to the value entered in text input and display repositories for selected GitHub user.
 
 ## How to start
 
 yarn install
 yarn start
+
+## Demo
+
+[Working Demo](https://github-repos-explorer.netlify.app/)
 
 ## Available Scripts
 
